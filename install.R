@@ -1,0 +1,7 @@
+install.packages("dplyr")
+install.packages("ggplot2")
+install.packages("ggsci")
+install.packages("tidymodels")
+install.packages("ranger")
+install.packages("kernlab")
+install.packages("palmerpenguins")
